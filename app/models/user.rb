@@ -1,3 +1,4 @@
 class User < ApplicationRecord
-    has_many :cars, dependant: :destroy
+  has_many :bookings
+  has_many :cars, through: :bookings
 end

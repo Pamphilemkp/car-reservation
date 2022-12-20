@@ -2,14 +2,16 @@
 
 one:
   name: MyString
-  date_of_birth: 2022-12-19
+  date_of_birth: 2022-12-20
   email: MyText
   photo: MyText
   password: MyString
+  admin: false
 
 two:
   name: MyString
-  date_of_birth: 2022-12-19
+  date_of_birth: 2022-12-20
   email: MyText
   photo: MyText
   password: MyString
+  admin: false

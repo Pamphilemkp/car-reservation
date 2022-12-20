@@ -1,5 +1,4 @@
 class Car < ApplicationRecord
-  belongs_to :user
-  b
-  has_one :reservation, dependant: :destroy
+  has_many :bookings
+  has_many :users, through: :bookings
 end

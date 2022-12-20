@@ -6,7 +6,6 @@ one:
   price: 9.99
   photo: MyText
   brand: MyString
-  user: one
 
 two:
   name: MyString
@@ -14,4 +13,3 @@ two:
   price: 9.99
   photo: MyText
   brand: MyString
-  user: two
