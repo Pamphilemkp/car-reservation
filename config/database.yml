@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: car_resevation_development
+  database: car_reservation_development
   pool: 5
   host: localhost
   username: postgres
@@ -19,4 +19,4 @@ staging:
   url: <%= ENV['DATABASE_URL'] %>
 
 production:
-  url: <%= ENV['DATABASE_URL'] %
+  url: <%= ENV['DATABASE_URL'] %>
