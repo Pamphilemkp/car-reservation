@@ -64,7 +64,7 @@
 
 ## Kanban Board
 
-- [https://github.com/users/Pamphilemkp/projects/3/views/1](Kanban Link)
+- [Kanban Link]([https://yourdeployedapplicationlink.com](https://github.com/users/Pamphilemkp/projects/3/views/1))
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
