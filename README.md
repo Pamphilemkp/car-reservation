@@ -65,6 +65,8 @@
 ## Kanban Board
 
 - [Kanban Link](https://github.com/users/Pamphilemkp/projects/3/views/1)
+- [Kanban Empty Screen Shot](https://github.com/Pamphilemkp/car-reservation/issues/11)
+- Final Members: 5
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -188,6 +190,18 @@ man_technologist: 👤 **Basit Ali** :writing_hand:
 - GitHub: [@PNdunguMaina](https://github.com/PNdunguMaina)
 - LinkedIn: [Patrick Maina](https://www.linkedin.com/in/pndungumaina/)
 - Twitter: [@ndunguwamaina_](https://twitter.com/ndunguwamaina_)
+
+:man_technologist: 👤 **Mark otuya** :writing_hand:
+
+- GitHub: [@githubhandle](https://github.com/markotuya0)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mark-otuya)
+- Twitter: [Twitter](https://twitter.com/mark_anthonny)
+:man_technologist: 👤 **Adebowale Adegboye Monsur** :writing_hand:
+
+- GitHub: [@githubhandle](https://github.com/ademibowale)
+- Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
