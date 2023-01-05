@@ -46,7 +46,7 @@
 <details>
   <summary>FrontEnd UI</summary>
   <ul>
-    <li><a href="https://github.com/Pamphilemkp/car-reservation-frontend">ROR (FrontEnd Repo)</a></li>
+    <li><a href="https://github.com/Pamphilemkp/car-reservation-frontend">React-Redux (FrontEnd Repo)</a></li>
   </ul>
 </details>
 
