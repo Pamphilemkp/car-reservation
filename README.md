@@ -33,7 +33,7 @@
 >
 # 📖 [Car Reservation] <a name="about-project"></a>
 
-> This repo holds the BackEnd development source for the Car Reservation App, the world's best free pet-sitting website. Car Reservation allows user to add car and see the car model and shop it.
+> This repo holds the BackEnd development source for the Car Reservation App, the world's best free car reservation website. Car Reservation allows user to add car and see the car model and shop it.
 
 
 
