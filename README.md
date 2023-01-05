@@ -7,7 +7,7 @@
   <img src="./murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Pawpal (BackEnd)</b><img src="./public/favicon-32x32.png" alt="logo" width="32"  height="auto" /></h3>
+
 
 </div>
 
