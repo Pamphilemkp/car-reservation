@@ -62,6 +62,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Kanban Board
+
+- [https://github.com/users/Pamphilemkp/projects/3/views/1](Kanban Link)
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
