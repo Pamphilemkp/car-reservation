@@ -169,13 +169,6 @@ sh
 
 ## 👥 :writing_hand: Authors <a name="authors"></a>
 
-man_technologist: 👤 **Basit Ali** :writing_hand:
-
-- GitHub: [@githubhandle](https://github.com/basitali111)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-ali-jobs/)
-- Twitter: [Twitter](https://twitter.com/BasitAl35031734)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 :man_technologist: 👤 **Pamphile Mkp** :writing_hand:
@@ -185,7 +178,15 @@ man_technologist: 👤 **Basit Ali** :writing_hand:
 - LinkedIn: [@pamphilemkp](https://www.linkedin.com/in/pamphile-musonda)
 
 
-:man_technologist: 👤 **Basit Ali** :writing_hand:
+man_technologist: 👤 **Basit Ali** :writing_hand:
+
+- GitHub: [@githubhandle](https://github.com/basitali111)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-ali-jobs/)
+- Twitter: [Twitter](https://twitter.com/BasitAl35031734)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+:man_technologist: 👤 **Patrick Maina** :writing_hand:
 
 - GitHub: [@PNdunguMaina](https://github.com/PNdunguMaina)
 - LinkedIn: [Patrick Maina](https://www.linkedin.com/in/pndungumaina/)
