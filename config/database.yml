@@ -5,15 +5,15 @@ development:
   pool: 5
   host: localhost
   username: postgres
-  password: 121306
+  password: basit
 
 test:
   adapter: postgresql
   encoding: unicode
   database: car_reservation_test
-  pool: 5
+  pool: 5               
   username: postgres
-  password: 121306
+  password: basit
 
 staging:
   url: <%= ENV['DATABASE_URL'] %>
