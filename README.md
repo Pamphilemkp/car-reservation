@@ -147,7 +147,7 @@ rspec ./spec
 ## Getting Started
 
 - Check the Ruby version or if you have at all by running `ruby -v` if you get something like this `ruby 2.6.8p205 (2021-07-07 revision 67951)` you have Ruby installed.
-- Clone the repository by running `git clone https://github.com/Pamphilemkp/car-reservation.git` in your CLI.
+- Clone the repository by running `git clone https://github.com/pamphilemkp/car-reservation.git` in your CLI.
 - Type `cd Exploration-Getaways-BACKEND`
 - Type `code .`
 - Run `bundle install`
