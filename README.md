@@ -142,8 +142,24 @@ Finally, each time you make changes to the project, run
 In the root folder to check the consistency of the app. Please don't make changes to the tests unless completely necessary, and mention it in your PR description:
 
 
-bundle exec rspec /spec
+rspec ./spec
 
+## Getting Started
+
+- Check the Ruby version or if you have at all by running `ruby -v` if you get something like this `ruby 2.6.8p205 (2021-07-07 revision 67951)` you have Ruby installed.
+- Clone the repository by running `git clone https://github.com/VitorGuedesMadeira/Exploration-Getaways-BACKEND.git` in your CLI.
+- Type `cd Exploration-Getaways-BACKEND`
+- Type `code .`
+- Run `bundle install`
+
+#### NOTE  you need to have a master key in config directory. If none exists generate one. 
+      - First delete `credentials.yml.enc`
+      - Run EDITOR="code" bundle exec rails credentials:edit 
+
+- Run `rails db:create db:migrate`
+- Optionally you can run `rails db:seed` to populate it
+- Run `rails server` to open the local server
+- Open Browser `http://localhost:3000/`
 
 ### Usage
 
