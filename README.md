@@ -142,7 +142,7 @@ Finally, each time you make changes to the project, run
 In the root folder to check the consistency of the app. Please don't make changes to the tests unless completely necessary, and mention it in your PR description:
 
 
-rspec ./spec
+rspec
 
 ## Getting Started
 
