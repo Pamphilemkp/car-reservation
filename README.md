@@ -183,7 +183,8 @@ sh
 ### API Documentation
 Open Browser and visit `http://localhost:3000//api-docs/`
 
-- [api documentaion screenshot](./public/Screenshot%20(135).png)
+![Api Documentation Screenshot ](https://user-images.githubusercontent.com/98436409/211160780-b2cd9819-dc13-4fd8-beed-675c1f25ab96.png)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
