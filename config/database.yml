@@ -5,7 +5,7 @@ development:
   pool: 5
   host: localhost
   username: postgres
-  password: 121306
+  password: adebowale
 
 test:
   adapter: postgresql
@@ -13,7 +13,7 @@ test:
   database: car_reservation_test
   pool: 5               
   username: postgres
-  password: 121306
+  password: adebowale
 
 staging:
   url: <%= ENV['DATABASE_URL'] %>
