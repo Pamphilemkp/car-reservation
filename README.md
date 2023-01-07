@@ -180,6 +180,11 @@ sh
   bin/rails test test/models/article_test.rb
 
 
+### API Documentation
+Open Browser and visit `http://localhost:3000//api-docs/`
+
+- [api documentaion screenshot](./public/Screenshot%20(135).png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
