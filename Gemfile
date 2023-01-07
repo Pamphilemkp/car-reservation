@@ -32,6 +32,12 @@ gem 'bootsnap', require: false
 gem 'devise'
 gem 'devise-jwt'
 gem 'fast_jsonapi'
+gem 'rswag'
+
+group :development, :test do
+  gem 'rspec-rails'
+  gem 'rswag-specs'
+end
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
